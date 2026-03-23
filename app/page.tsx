@@ -53,7 +53,7 @@ export default async function Home() {
         </h1>
         <p className="max-w-xl text-lg text-muted-foreground">
           A fast, free link shortener that gives you branded short URLs and
-          real-time analytics — all in one place.
+          real&#8209;time analytics — all in one place.
         </p>
         <div className="flex flex-wrap justify-center gap-4">
           <SignUpButton mode="modal">
